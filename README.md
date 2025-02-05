@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script analyzes OpenStreetMap (OSM) data to assess the accessibility of hospitals for buildings within a defined study area. The script uses libraries such as `OSMnx`, Folium, Geopandas, NetworkX, and UTM to fetch, process, and visualize geospatial data. It also calculates the shortest walking distance from each building to the nearest hospital, helping to understand access to healthcare facilities.
+This Python script analyzes OpenStreetMap (OSM) data to assess the accessibility of hospitals for buildings within a defined study area. The script uses libraries such as `OSMnx`, `Folium`, `Geopandas`, `NetworkX`, and `UTM` to fetch, process, and visualize geospatial data. It also calculates the shortest walking distance from each building to the nearest hospital, helping to understand access to healthcare facilities.
 
 ## Key Features
 
@@ -15,7 +15,7 @@ This Python script analyzes OpenStreetMap (OSM) data to assess the accessibility
 
 To run this script, you will need the following Python libraries:
 
-- **OSMnx**: For downloading and working with OpenStreetMap data.
+- `**OSMnx**`: For downloading and working with OpenStreetMap data.
 - **Folium**: For interactive map visualization.
 - **NetworkX**: For calculating shortest paths on the road network.
 - **Geopandas**: For geospatial data manipulation.
