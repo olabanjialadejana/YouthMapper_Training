@@ -16,13 +16,14 @@ This Python script analyzes OpenStreetMap (OSM) data to assess the accessibility
 To run this script, you will need the following Python libraries:
 
 - **`OSMnx`**: For downloading and working with OpenStreetMap data.
-- **Folium**: For interactive map visualization.
-- **NetworkX**: For calculating shortest paths on the road network.
-- **Geopandas**: For geospatial data manipulation.
-- **Shapely**: For geometric operations on spatial data.
-- **UTM**: For handling UTM zone calculations.
-- **Matplotlib**: For plotting results.
-- **Warnings**: To suppress certain warnings for clean execution.
+- **`Folium`**: For interactive map visualization.
+- **`NetworkX`**: For calculating shortest paths on the road network.
+- **`Geopandas`**: For geospatial data manipulation.
+- **`Shapely`**: For geometric operations on spatial data.
+- **`UTM`**: For handling UTM zone calculations.
+- **`Matplotlib`**: For plotting results.
+- **`Warnings`**: To suppress certain warnings for clean execution.
+- **`Seaborn`**: For heatmap visualization.
 
 You can install these libraries using `pip`:
 
