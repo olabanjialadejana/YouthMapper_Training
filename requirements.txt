@@ -1,0 +1,7 @@
+osmnx~=1.9.3
+folium~=0.17.0
+networkx~=3.3
+geopandas~=0.14.4
+utm~=0.7.0
+matplotlib~=3.9.2
+shapely~=2.0.6
