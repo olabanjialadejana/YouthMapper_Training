@@ -27,5 +27,5 @@ To run this script, you will need the following Python libraries:
 
 You can install these libraries using `pip`:
 
-```bash
+```py
 pip install osmnx folium networkx geopandas shapely utm matplotlib
